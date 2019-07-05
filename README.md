@@ -1,2 +1,5 @@
-# reverse
-A Kubernetes controller that reverses the name of the namespaces
+To execute:
+
+go build
+
+./reverse -kubeconfig=/Users/juanlarriba/.kube/config
